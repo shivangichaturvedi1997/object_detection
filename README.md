@@ -21,4 +21,4 @@ Then configure the model using the faster_rcnn object detection template.
 
 Step 3: Training and Production
 
-Please go through train.py and eval.py available here https://github.com/tensorflow/models/research/object_detection
+Please go through train.py and eval.py available here https://github.com/tensorflow/models/tree/master/research/object_detection
